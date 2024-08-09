@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106794205937",
+    "project_id": "pushnotification-aae0d",
+    "storage_bucket": "pushnotification-aae0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106794205937:android:71bbcf316317a33b8b9f50",
+        "android_client_info": {
+          "package_name": "com.example.gift_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOYqBDphYjPJhmHXXnNtFa4W3RcYU5uF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
