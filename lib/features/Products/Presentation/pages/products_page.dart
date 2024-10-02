@@ -37,7 +37,8 @@ class _ProductsState extends State<Products> {
             onPressed: () {
               Navigator.pop(context);
             },
-          )),
+          )
+          ),
       body: SingleChildScrollView(
         child: Padding(
           padding: XPadding.allSidePadding5,

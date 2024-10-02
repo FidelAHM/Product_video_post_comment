@@ -13,7 +13,6 @@ import 'package:gift_shop/features/comment/presentation/Manager/bloc/comment_blo
 import 'package:gift_shop/features/posts/presentation/manager/bloc/post_bloc.dart';
 import 'package:gift_shop/firebase_options.dart';
 import 'package:gift_shop/features/videos/presentation/manager/bloc/video_player_bloc.dart';
-import 'package:gift_shop/features/videos/presentation/pages/video_detail.dart';
 import 'package:gift_shop/features/videos/presentation/video_detail.dart/bloc/video_detail_bloc.dart';
 
 void main() async {
